@@ -1,3 +1,7 @@
+body {
+  font-family: 'Candara', 'Oxygen'
+}
+
 .App {
   text-align: center;
 }
@@ -14,6 +18,10 @@
   bottom: 0;
   left: 0;
   right: 0;
+}
+
+.buttonContainer {
+  min-width: 150px;
 }
 
 button {

@@ -1,0 +1,13 @@
+@media (min-width: 600px) {
+    .doggo  {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 570px) {
+    .doggo  {
+        max-width: 80%;
+        height: auto;
+    }
+}
